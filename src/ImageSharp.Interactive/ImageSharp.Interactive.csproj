@@ -7,7 +7,7 @@
     <PackageId>JupahsImageSharpInteractiveFork</PackageId>
     <PackageIcon>sixlabors.imagesharp.128.png</PackageIcon>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <RepositoryUrl Condition="'$(RepositoryUrl)' == ''">https://github.com/SixLabors/ImageSharp.Interactive/</RepositoryUrl>
+    <RepositoryUrl Condition="'$(RepositoryUrl)' == ''">https://github.com/jupahe64/ImageSharp.Interactive/</RepositoryUrl>
     <PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
     <TargetFramework>net8.0</TargetFramework>
     <PackageReadmeFile>README.md</PackageReadmeFile>
